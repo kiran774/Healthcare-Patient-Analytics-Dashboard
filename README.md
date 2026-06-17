@@ -10,6 +10,14 @@ I developed an interactive Power BI dashboard focused on Healthcare Analytics. T
 * **Interactive Filtering:** Integrated an advanced Slicer (Tile buttons) for treatment_type to allow dynamic filtering across the entire dashboard.
 
 ## Tech Stack Used
+📄 Project Repository Structure:
+
+Healthcare Dashboard.pbix - Power BI Dashboard File
+
+healthcare_cleaning.ipynb - Python Data Cleaning Script
+
+
+
 * **Data Cleaning & Transformation:** Python (Pandas)
 * **Data Visualization & Dashboarding:** Microsoft Power BI
 * **Design Philosophy:** Modern UI with custom layouts and rounded visual containers.
